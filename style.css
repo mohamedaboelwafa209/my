@@ -1,0 +1,61 @@
+
+
+body{
+    width:1000PX
+    margin: 5px;
+    justify-content: space-around;
+}
+
+header{
+    display: flex;
+    direction: rtl;
+    justify-content: space-between;
+    background-color: chartreuse;
+    font-size: 20px;
+
+
+}
+
+main{
+    background-image: url(و2.jpg);
+    background-position: center;
+    text-align: center;
+    height: 500px;
+ padding: 50px;
+
+}
+h1{
+    padding: px;
+}
+.aa1{
+   
+    display:inline-flex;
+    position: relative;
+    margin: 10px;
+}
+.bb{
+    position: absolute;
+    right: 70px;
+    top: 30px;
+}
+h2{
+    color: brown;
+    text-align: center;
+}
+.ff{
+    text-align: right;
+}
+div{
+    display: inline-flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.ll{
+    text-align: right;
+}
+
+footer{
+    direction: rtl;
+    
+    
+}
